@@ -1,6 +1,7 @@
 # Bandit-Levels
 My solutions for OTW Bandit documented. 
-# This is not a walkthrough or guide, this is how I solved the levels, I do plan to write up a full guide explaining the objective of each lesson, possible commands, their uses and examples. NOT ANSWERS AS THEN THERE'S NO CHALLENGE 
+
+#This is not a walkthrough or guide, this is how I solved the levels, I do plan to write up a full guide explaining the objective of each lesson, possible commands, their uses and examples. NOT ANSWERS AS THEN THERE'S NO CHALLENGE 
 Over The Wire Bandit Levels 1-10 Solutions 
 
 Level 0 - Pretty simple, just logging on
